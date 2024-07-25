@@ -6,6 +6,7 @@
 
 ### Sample test payload
 ```
+{
         "name": "Property Square",
         "city": "Los Angeles",
         "state": "California",
@@ -13,5 +14,5 @@
         "availableUnits": 2,
         "wifi": false,
         "laundry": true
-    }
+}
 ```
